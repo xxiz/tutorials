@@ -37,3 +37,4 @@ If you see a message similar to the following, you have successfully generated y
 [Tue 22 Jun 2021 11:00:00 PM UTC] The intermediate CA cert is in  /root/.acme.sh/example.com/ca.cer
 [Tue 22 Jun 2021 11:00:00 PM UTC] And the full chain certs is there:  /root/.acme.sh/example.com/fullchain.cer
 ```
+> Note: If you have just generated the SSL certificates, and your website is not working as intented. After approving the SSL certificates, you might have to [wait anywhere from 15m to 24h for the SSL certificates to be fully generated](https://support.cloudflare.com/hc/en-us/articles/204144518-SSL-FAQ#:~:text=If%20Cloudflare%20is%20your%20authoritative,customer%20action%20after%20domain%20activation.).
