@@ -3,11 +3,13 @@
 
 ## Overview
 
-* **`linux/*`** - Linux related tutorials
-    * [`deattaching-terminals-linux`](linux/deattaching-terminals-linux.md) - How to deattach a terminal from a running process
-* **`nginx/*`** - Nginx related tutorials
-    * [`generating-ssl-certificates`](nginx/generating-ssl-certificates.md) - How to generate SSL certificates for Nginx
-    * [`setting-up-reverse-proxy`](nginx/setting-up-reverse-proxy.md) - How to set up a reverse proxy with Nginx
-    * [`dynamic-rerouting`](nginx/dynamic-rerouting.md) - Re-routing URLs dynamically with Nginx
-* **`ssh/*`** - SSH related tutorials
-    * [`add-domains-to-ssh`](ssh/add-domains-to-ssh.md.md) - How to add domains to SSH, to avoid typing the IP address and port
+* `linux/*`
+    * [`deattaching-terminals-linux`](linux/deattaching-terminals-linux.md)
+* `nginx/*`
+    * [`generating-ssl-certificates`](nginx/generating-ssl-certificates.md)
+    * [`setting-up-reverse-proxy`](nginx/setting-up-reverse-proxy.md)
+    * [`dynamic-rerouting`](nginx/dynamic-rerouting.md)
+* `ssh/*`
+    * [`add-domains-to-ssh`](ssh/add-domains-to-ssh.md.md)
+* **`next.js/*`
+    * [`file-system-blog`](next.js/file-system-blog.md)
